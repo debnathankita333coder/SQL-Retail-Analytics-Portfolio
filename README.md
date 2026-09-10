@@ -10,7 +10,8 @@ This project demonstrates an end-to-end database implementation for a retail ent
 ## 📐 Data Architecture & ER Diagram
 The database follows a normalized *Star Schema* centered around business transactions.
 
-![Retail DB ER Diagram](./images/retail_db_er_diagram.png)
+<img width="1333" height="747" alt="retail_db_diagram(1)" src="https://github.com/user-attachments/assets/1f31e35a-8c5e-4c97-835d-079eed663018" />
+
 
 ### Schema Breakdown:
 * *dim_customers*: Demographics table containing unique customer attributes (customer_id, gender, age).
