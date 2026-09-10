@@ -26,6 +26,9 @@ The database follows a normalized *Star Schema* centered around business transac
 * [scripts/eda_and_kpis.sql](./scripts/eda_and_kpis.sql): Executive queries measuring AOV, total revenue, monthly growth, and order volume.
 * [scripts/advanced_analytics.sql](./scripts/advanced_analytics.sql): Complex analytical queries using CTEs, DENSE_RANK(), LAG(), and cumulative window functions.
 
+  <img width="1335" height="749" alt="retail_db_queries" src="https://github.com/user-attachments/assets/49aed8eb-c126-43e9-af25-4072accb8d62" />
+
+
 ---
 
 ## 💡 Key Technical Highlights
